@@ -1,4 +1,4 @@
-# Kristina Wu
+# Meiting Wu(Kristina)
 **Email:** mew013@ucsd.edu
 
 **Section:** B04  
