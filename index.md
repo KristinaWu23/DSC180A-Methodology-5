@@ -1,7 +1,7 @@
 # Kristina Wu
 **Email:** mew013@ucsd.edu
 
-**Section:** B04
+**Section:** B04  
 **Mentor:** Professor Hao Zhang
 
 ## Prompts
