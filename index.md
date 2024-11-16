@@ -1,7 +1,3 @@
----
-title: DSC 180A Methodology Assignment 5
----
-
 # Kristina Wu
 **Email:** mew013@ucsd.edu
 
